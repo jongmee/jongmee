@@ -12,6 +12,7 @@
 🌱 멋쟁이사자처럼 서강대학교 11기 BE 운영진<br>
 🌱 신촌 연합 IT 창업 동아리 CEOS 18기 BE<br>
 </div>
+<br>
 
 <h2 align="center">
   Stack
@@ -32,4 +33,13 @@
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
  <img src="https://img.shields.io/badge/sqlite-yellow?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
+</div>
+<br>
+
+<h2 align="center">
+  Blog
+</h2>
+
+<div align=center>
+https://velog.io/@jongmee
 </div>
