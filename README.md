@@ -1,4 +1,4 @@
-## Jongmi's Github 👋
+## Jongmi(Mia)'s Github 👋
 
 ### Experience 
 ✦ 멋쟁이사자처럼 서강대학교 10기 BE<br>
